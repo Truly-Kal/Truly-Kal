@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning various languages and creating an impressive portfolio
 - 🌱 I’m currently learning python fundamentals in Computer science and multimedia
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, you can contact me @kalelhines@gmail.com
+- 📫 How to reach me, you can contact me kalelhines@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: meow
 
